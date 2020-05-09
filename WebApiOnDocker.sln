@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiOnDocker", "WebApiOnDocker\WebApiOnDocker.csproj", "{D295CEFA-1031-457A-A531-222013EFE9F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiOnDocker.Services", "WebApiOnDocker.Services\WebApiOnDocker.Services.csproj", "{52443C0A-451A-461D-955C-FB225D3B95BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D295CEFA-1031-457A-A531-222013EFE9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D295CEFA-1031-457A-A531-222013EFE9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D295CEFA-1031-457A-A531-222013EFE9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D295CEFA-1031-457A-A531-222013EFE9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52443C0A-451A-461D-955C-FB225D3B95BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52443C0A-451A-461D-955C-FB225D3B95BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52443C0A-451A-461D-955C-FB225D3B95BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52443C0A-451A-461D-955C-FB225D3B95BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F951C74D-67FB-4C75-BFB5-28ABF0A95429}
+	EndGlobalSection
+EndGlobal
